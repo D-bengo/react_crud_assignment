@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Mwangi",
+      "email": "john.mwangi@gmail.com",
+      "course": "Computer Science"
+    },
+    {
+      "id": "2",
+      "name": "Mary Akinyi",
+      "email": "mary.akinyi@gmail.com",
+      "course": "Information Technology"
+    },
+    {
+      "id": "3",
+      "name": "Peter Otieno",
+      "email": "peter.otieno@gmail.com",
+      "course": "Data Science"
+    },
+    {
+      "id": "4",
+      "name": "Grace Wanjiru",
+      "email": "grace.wanjiru@gmail.com",
+      "course": "Software Engineering"
+    },
+    {
+      "id": "5",
+      "name": "Brian Kiptoo",
+      "email": "brian.kiptoo@gmail.com",
+      "course": "Cyber Security"
+    },
+    {
+      "id": "ace7",
+      "name": "Senior Professor",
+      "email": "professorsenior@gmail.com",
+      "course": "BBIT"
+    }
+  ]
+}
