@@ -46,4 +46,15 @@ react-crud-assignment/
     └── main.jsx
 
 
+## Installation and Setup
+1. Clone the repository using SSH
+    git clone git@github.com:D-bengo/react_crud_assignment.git
+    cd react_crud_assignment
+2. Install Project Dependencies
+    npm install
+3. Install JSON Server
+    npm install -g json-server
+4. Start JSON Server
+- Inside database folder,  run:
+    json-server --watch db.json --port 3001
 
